@@ -1,776 +1,1034 @@
 [
-{"glyphicon-asterisk":{
-  "content": "2a"
-}},
-{"glyphicon-plus":{
-  "content": "2b"
-}},
-{"glyphicon-eur":{
-  "content": "20ac"
-}},
-{"glyphicon-minus":{
-  "content": "2212"
-}},
-{"glyphicon-cloud":{
-  "content": "2601"
-}},
-{"glyphicon-envelope":{
-  "content": "2709"
-}},
-{"glyphicon-pencil":{
-  "content": "270f"
-}},
-{"glyphicon-glass":{
-  "content": "e001"
-}},
-{"glyphicon-music":{
-  "content": "e002"
-}},
-{"glyphicon-search":{
-  "content": "e003"
-}},
-{"glyphicon-heart":{
-  "content": "e005"
-}},
-{"glyphicon-star":{
-  "content": "e006"
-}},
-{"glyphicon-star-empty":{
-  "content": "e007"
-}},
-{"glyphicon-user":{
-  "content": "e008"
-}},
-{"glyphicon-film":{
-  "content": "e009"
-}},
-{"glyphicon-th-large":{
-  "content": "e010"
-}},
-{"glyphicon-th":{
-  "content": "e011"
-}},
-{"glyphicon-th-list":{
-  "content": "e012"
-}},
-{"glyphicon-ok":{
-  "content": "e013"
-}},
-{"glyphicon-remove":{
-  "content": "e014"
-}},
-{"glyphicon-zoom-in":{
-  "content": "e015"
-}},
-{"glyphicon-zoom-out":{
-  "content": "e016"
-}},
-{"glyphicon-off":{
-  "content": "e017"
-}},
-{"glyphicon-signal":{
-  "content": "e018"
-}},
-{"glyphicon-cog":{
-  "content": "e019"
-}},
-{"glyphicon-trash":{
-  "content": "e020"
-}},
-{"glyphicon-home":{
-  "content": "e021"
-}},
-{"glyphicon-file":{
-  "content": "e022"
-}},
-{"glyphicon-time":{
-  "content": "e023"
-}},
-{"glyphicon-road":{
-  "content": "e024"
-}},
-{"glyphicon-download-alt":{
-  "content": "e025"
-}},
-{"glyphicon-download":{
-  "content": "e026"
-}},
-{"glyphicon-upload":{
-  "content": "e027"
-}},
-{"glyphicon-inbox":{
-  "content": "e028"
-}},
-{"glyphicon-play-circle":{
-  "content": "e029"
-}},
-{"glyphicon-repeat":{
-  "content": "e030"
-}},
-{"glyphicon-refresh":{
-  "content": "e031"
-}},
-{"glyphicon-list-alt":{
-  "content": "e032"
-}},
-{"glyphicon-lock":{
-  "content": "e033"
-}},
-{"glyphicon-flag":{
-  "content": "e034"
-}},
-{"glyphicon-headphones":{
-  "content": "e035"
-}},
-{"glyphicon-volume-off":{
-  "content": "e036"
-}},
-{"glyphicon-volume-down":{
-  "content": "e037"
-}},
-{"glyphicon-volume-up":{
-  "content": "e038"
-}},
-{"glyphicon-qrcode":{
-  "content": "e039"
-}},
-{"glyphicon-barcode":{
-  "content": "e040"
-}},
-{"glyphicon-tag":{
-  "content": "e041"
-}},
-{"glyphicon-tags":{
-  "content": "e042"
-}},
-{"glyphicon-book":{
-  "content": "e043"
-}},
-{"glyphicon-bookmark":{
-  "content": "e044"
-}},
-{"glyphicon-print":{
-  "content": "e045"
-}},
-{"glyphicon-camera":{
-  "content": "e046"
-}},
-{"glyphicon-font":{
-  "content": "e047"
-}},
-{"glyphicon-bold":{
-  "content": "e048"
-}},
-{"glyphicon-italic":{
-  "content": "e049"
-}},
-{"glyphicon-text-height":{
-  "content": "e050"
-}},
-{"glyphicon-text-width":{
-  "content": "e051"
-}},
-{"glyphicon-align-left":{
-  "content": "e052"
-}},
-{"glyphicon-align-center":{
-  "content": "e053"
-}},
-{"glyphicon-align-right":{
-  "content": "e054"
-}},
-{"glyphicon-align-justify":{
-  "content": "e055"
-}},
-{"glyphicon-list":{
-  "content": "e056"
-}},
-{"glyphicon-indent-left":{
-  "content": "e057"
-}},
-{"glyphicon-indent-right":{
-  "content": "e058"
-}},
-{"glyphicon-facetime-video":{
-  "content": "e059"
-}},
-{"glyphicon-picture":{
-  "content": "e060"
-}},
-{"glyphicon-map-marker":{
-  "content": "e062"
-}},
-{"glyphicon-adjust":{
-  "content": "e063"
-}},
-{"glyphicon-tint":{
-  "content": "e064"
-}},
-{"glyphicon-edit":{
-  "content": "e065"
-}},
-{"glyphicon-share":{
-  "content": "e066"
-}},
-{"glyphicon-check":{
-  "content": "e067"
-}},
-{"glyphicon-move":{
-  "content": "e068"
-}},
-{"glyphicon-step-backward":{
-  "content": "e069"
-}},
-{"glyphicon-fast-backward":{
-  "content": "e070"
-}},
-{"glyphicon-backward":{
-  "content": "e071"
-}},
-{"glyphicon-play":{
-  "content": "e072"
-}},
-{"glyphicon-pause":{
-  "content": "e073"
-}},
-{"glyphicon-stop":{
-  "content": "e074"
-}},
-{"glyphicon-forward":{
-  "content": "e075"
-}},
-{"glyphicon-fast-forward":{
-  "content": "e076"
-}},
-{"glyphicon-step-forward":{
-  "content": "e077"
-}},
-{"glyphicon-eject":{
-  "content": "e078"
-}},
-{"glyphicon-chevron-left":{
-  "content": "e079"
-}},
-{"glyphicon-chevron-right":{
-  "content": "e080"
-}},
-{"glyphicon-plus-sign":{
-  "content": "e081"
-}},
-{"glyphicon-minus-sign":{
-  "content": "e082"
-}},
-{"glyphicon-remove-sign":{
-  "content": "e083"
-}},
-{"glyphicon-ok-sign":{
-  "content": "e084"
-}},
-{"glyphicon-question-sign":{
-  "content": "e085"
-}},
-{"glyphicon-info-sign":{
-  "content": "e086"
-}},
-{"glyphicon-screenshot":{
-  "content": "e087"
-}},
-{"glyphicon-remove-circle":{
-  "content": "e088"
-}},
-{"glyphicon-ok-circle":{
-  "content": "e089"
-}},
-{"glyphicon-ban-circle":{
-  "content": "e090"
-}},
-{"glyphicon-arrow-left":{
-  "content": "e091"
-}},
-{"glyphicon-arrow-right":{
-  "content": "e092"
-}},
-{"glyphicon-arrow-up":{
-  "content": "e093"
-}},
-{"glyphicon-arrow-down":{
-  "content": "e094"
-}},
-{"glyphicon-share-alt":{
-  "content": "e095"
-}},
-{"glyphicon-resize-full":{
-  "content": "e096"
-}},
-{"glyphicon-resize-small":{
-  "content": "e097"
-}},
-{"glyphicon-exclamation-sign":{
-  "content": "e101"
-}},
-{"glyphicon-gift":{
-  "content": "e102"
-}},
-{"glyphicon-leaf":{
-  "content": "e103"
-}},
-{"glyphicon-fire":{
-  "content": "e104"
-}},
-{"glyphicon-eye-open":{
-  "content": "e105"
-}},
-{"glyphicon-eye-close":{
-  "content": "e106"
-}},
-{"glyphicon-warning-sign":{
-  "content": "e107"
-}},
-{"glyphicon-plane":{
-  "content": "e108"
-}},
-{"glyphicon-calendar":{
-  "content": "e109"
-}},
-{"glyphicon-random":{
-  "content": "e110"
-}},
-{"glyphicon-comment":{
-  "content": "e111"
-}},
-{"glyphicon-magnet":{
-  "content": "e112"
-}},
-{"glyphicon-chevron-up":{
-  "content": "e113"
-}},
-{"glyphicon-chevron-down":{
-  "content": "e114"
-}},
-{"glyphicon-retweet":{
-  "content": "e115"
-}},
-{"glyphicon-shopping-cart":{
-  "content": "e116"
-}},
-{"glyphicon-folder-close":{
-  "content": "e117"
-}},
-{"glyphicon-folder-open":{
-  "content": "e118"
-}},
-{"glyphicon-resize-vertical":{
-  "content": "e119"
-}},
-{"glyphicon-resize-horizontal":{
-  "content": "e120"
-}},
-{"glyphicon-hdd":{
-  "content": "e121"
-}},
-{"glyphicon-bullhorn":{
-  "content": "e122"
-}},
-{"glyphicon-bell":{
-  "content": "e123"
-}},
-{"glyphicon-certificate":{
-  "content": "e124"
-}},
-{"glyphicon-thumbs-up":{
-  "content": "e125"
-}},
-{"glyphicon-thumbs-down":{
-  "content": "e126"
-}},
-{"glyphicon-hand-right":{
-  "content": "e127"
-}},
-{"glyphicon-hand-left":{
-  "content": "e128"
-}},
-{"glyphicon-hand-up":{
-  "content": "e129"
-}},
-{"glyphicon-hand-down":{
-  "content": "e130"
-}},
-{"glyphicon-circle-arrow-right":{
-  "content": "e131"
-}},
-{"glyphicon-circle-arrow-left":{
-  "content": "e132"
-}},
-{"glyphicon-circle-arrow-up":{
-  "content": "e133"
-}},
-{"glyphicon-circle-arrow-down":{
-  "content": "e134"
-}},
-{"glyphicon-globe":{
-  "content": "e135"
-}},
-{"glyphicon-wrench":{
-  "content": "e136"
-}},
-{"glyphicon-tasks":{
-  "content": "e137"
-}},
-{"glyphicon-filter":{
-  "content": "e138"
-}},
-{"glyphicon-briefcase":{
-  "content": "e139"
-}},
-{"glyphicon-fullscreen":{
-  "content": "e140"
-}},
-{"glyphicon-dashboard":{
-  "content": "e141"
-}},
-{"glyphicon-paperclip":{
-  "content": "e142"
-}},
-{"glyphicon-heart-empty":{
-  "content": "e143"
-}},
-{"glyphicon-link":{
-  "content": "e144"
-}},
-{"glyphicon-phone":{
-  "content": "e145"
-}},
-{"glyphicon-pushpin":{
-  "content": "e146"
-}},
-{"glyphicon-usd":{
-  "content": "e148"
-}},
-{"glyphicon-gbp":{
-  "content": "e149"
-}},
-{"glyphicon-sort":{
-  "content": "e150"
-}},
-{"glyphicon-sort-by-alphabet":{
-  "content": "e151"
-}},
-{"glyphicon-sort-by-alphabet-alt":{
-  "content": "e152"
-}},
-{"glyphicon-sort-by-order":{
-  "content": "e153"
-}},
-{"glyphicon-sort-by-order-alt":{
-  "content": "e154"
-}},
-{"glyphicon-sort-by-attributes":{
-  "content": "e155"
-}},
-{"glyphicon-sort-by-attributes-alt":{
-  "content": "e156"
-}},
-{"glyphicon-unchecked":{
-  "content": "e157"
-}},
-{"glyphicon-expand":{
-  "content": "e158"
-}},
-{"glyphicon-collapse-down":{
-  "content": "e159"
-}},
-{"glyphicon-collapse-up":{
-  "content": "e160"
-}},
-{"glyphicon-log-in":{
-  "content": "e161"
-}},
-{"glyphicon-flash":{
-  "content": "e162"
-}},
-{"glyphicon-log-out":{
-  "content": "e163"
-}},
-{"glyphicon-new-window":{
-  "content": "e164"
-}},
-{"glyphicon-record":{
-  "content": "e165"
-}},
-{"glyphicon-save":{
-  "content": "e166"
-}},
-{"glyphicon-open":{
-  "content": "e167"
-}},
-{"glyphicon-saved":{
-  "content": "e168"
-}},
-{"glyphicon-import":{
-  "content": "e169"
-}},
-{"glyphicon-export":{
-  "content": "e170"
-}},
-{"glyphicon-send":{
-  "content": "e171"
-}},
-{"glyphicon-floppy-disk":{
-  "content": "e172"
-}},
-{"glyphicon-floppy-saved":{
-  "content": "e173"
-}},
-{"glyphicon-floppy-remove":{
-  "content": "e174"
-}},
-{"glyphicon-floppy-save":{
-  "content": "e175"
-}},
-{"glyphicon-floppy-open":{
-  "content": "e176"
-}},
-{"glyphicon-credit-card":{
-  "content": "e177"
-}},
-{"glyphicon-transfer":{
-  "content": "e178"
-}},
-{"glyphicon-cutlery":{
-  "content": "e179"
-}},
-{"glyphicon-header":{
-  "content": "e180"
-}},
-{"glyphicon-compressed":{
-  "content": "e181"
-}},
-{"glyphicon-earphone":{
-  "content": "e182"
-}},
-{"glyphicon-phone-alt":{
-  "content": "e183"
-}},
-{"glyphicon-tower":{
-  "content": "e184"
-}},
-{"glyphicon-stats":{
-  "content": "e185"
-}},
-{"glyphicon-sd-video":{
-  "content": "e186"
-}},
-{"glyphicon-hd-video":{
-  "content": "e187"
-}},
-{"glyphicon-subtitles":{
-  "content": "e188"
-}},
-{"glyphicon-sound-stereo":{
-  "content": "e189"
-}},
-{"glyphicon-sound-dolby":{
-  "content": "e190"
-}},
-{"glyphicon-sound-5-1":{
-  "content": "e191"
-}},
-{"glyphicon-sound-6-1":{
-  "content": "e192"
-}},
-{"glyphicon-sound-7-1":{
-  "content": "e193"
-}},
-{"glyphicon-copyright-mark":{
-  "content": "e194"
-}},
-{"glyphicon-registration-mark":{
-  "content": "e195"
-}},
-{"glyphicon-cloud-download":{
-  "content": "e197"
-}},
-{"glyphicon-cloud-upload":{
-  "content": "e198"
-}},
-{"glyphicon-tree-conifer":{
-  "content": "e199"
-}},
-{"glyphicon-tree-deciduous":{
-  "content": "e200"
-}},
-{"glyphicon-cd":{
-  "content": "e201"
-}},
-{"glyphicon-save-file":{
-  "content": "e202"
-}},
-{"glyphicon-open-file":{
-  "content": "e203"
-}},
-{"glyphicon-level-up":{
-  "content": "e204"
-}},
-{"glyphicon-copy":{
-  "content": "e205"
-}},
-{"glyphicon-paste":{
-  "content": "e206"
-}},
-{"glyphicon-alert":{
-  "content": "e209"
-}},
-{"glyphicon-equalizer":{
-  "content": "e210"
-}},
-{"glyphicon-king":{
-  "content": "e211"
-}},
-{"glyphicon-queen":{
-  "content": "e212"
-}},
-{"glyphicon-pawn":{
-  "content": "e213"
-}},
-{"glyphicon-bishop":{
-  "content": "e214"
-}},
-{"glyphicon-knight":{
-  "content": "e215"
-}},
-{"glyphicon-baby-formula":{
-  "content": "e216"
-}},
-{"glyphicon-tent":{
-  "content": "26fa"
-}},
-{"glyphicon-blackboard":{
-  "content": "e218"
-}},
-{"glyphicon-bed":{
-  "content": "e219"
-}},
-{"glyphicon-apple":{
-  "content": "f8ff"
-}},
-{"glyphicon-erase":{
-  "content": "e221"
-}},
-{"glyphicon-hourglass":{
-  "content": "231b"
-}},
-{"glyphicon-lamp":{
-  "content": "e223"
-}},
-{"glyphicon-duplicate":{
-  "content": "e224"
-}},
-{"glyphicon-piggy-bank":{
-  "content": "e225"
-}},
-{"glyphicon-scissors":{
-  "content": "e226"
-}},
-{"glyphicon-bitcoin":{
-  "content": "e227"
-}},
-{"glyphicon-yen":{
-  "content": "00a5"
-}},
-{"glyphicon-ruble":{
-  "content": "20bd"
-}},
-{"glyphicon-scale":{
-  "content": "e230"
-}},
-{"glyphicon-ice-lolly":{
-  "content": "e231"
-}},
-{"glyphicon-ice-lolly-tasted":{
-  "content": "e232"
-}},
-{"glyphicon-education":{
-  "content": "e233"
-}},
-{"glyphicon-option-horizontal":{
-  "content": "e234"
-}},
-{"glyphicon-option-vertical":{
-  "content": "e235"
-}},
-{"glyphicon-menu-hamburger":{
-  "content": "e236"
-}},
-{"glyphicon-modal-window":{
-  "content": "e237"
-}},
-{"glyphicon-oil":{
-  "content": "e238"
-}},
-{"glyphicon-grain":{
-  "content": "e239"
-}},
-{"glyphicon-sunglasses":{
-  "content": "e240"
-}},
-{"glyphicon-text-size":{
-  "content": "e241"
-}},
-{"glyphicon-text-color":{
-  "content": "e242"
-}},
-{"glyphicon-text-background":{
-  "content": "e243"
-}},
-{"glyphicon-object-align-top":{
-  "content": "e244"
-}},
-{"glyphicon-object-align-bottom":{
-  "content": "e245"
-}},
-{"glyphicon-object-align-horizontal":{
-  "content": "e246"
-}},
-{"glyphicon-object-align-left":{
-  "content": "e247"
-}},
-{"glyphicon-object-align-vertical":{
-  "content": "e248"
-}},
-{"glyphicon-object-align-right":{
-  "content": "e249"
-}},
-{"glyphicon-triangle-right":{
-  "content": "e250"
-}},
-{"glyphicon-triangle-left":{
-  "content": "e251"
-}},
-{"glyphicon-triangle-bottom":{
-  "content": "e252"
-}},
-{"glyphicon-triangle-top":{
-  "content": "e253"
-}},
-{"glyphicon-console":{
-  "content": "e254"
-}},
-{"glyphicon-superscript":{
-  "content": "e255"
-}},
-{"glyphicon-subscript":{
-  "content": "e256"
-}},
-{"glyphicon-menu-left":{
-  "content": "e257"
-}},
-{"glyphicon-menu-right":{
-  "content": "e258"
-}},
-{"glyphicon-menu-down":{
-  "content": "e259"
-}},
-{"glyphicon-menu-up":{
-  "content": "e260"
-}}
+   {
+      "name":"glyphicon-asterisk",
+      "code":"\\2a"
+   },
+   {
+      "name":"glyphicon-plus",
+      "code":"\\2b"
+   },
+   {
+      "name":"glyphicon-eur",
+      "code":"\\20ac"
+   },
+   {
+      "name":"glyphicon-minus",
+      "code":"\\2212"
+   },
+   {
+      "name":"glyphicon-cloud",
+      "code":"\\2601"
+   },
+   {
+      "name":"glyphicon-envelope",
+      "code":"\\2709"
+   },
+   {
+      "name":"glyphicon-pencil",
+      "code":"\\270f"
+   },
+   {
+      "name":"glyphicon-glass",
+      "code":"\\e001"
+   },
+   {
+      "name":"glyphicon-music",
+      "code":"\\e002"
+   },
+   {
+      "name":"glyphicon-search",
+      "code":"\\e003"
+   },
+   {
+      "name":"glyphicon-heart",
+      "code":"\\e005"
+   },
+   {
+      "name":"glyphicon-star",
+      "code":"\\e006"
+   },
+   {
+      "name":"glyphicon-star-empty",
+      "code":"\\e007"
+   },
+   {
+      "name":"glyphicon-user",
+      "code":"\\e008"
+   },
+   {
+      "name":"glyphicon-film",
+      "code":"\\e009"
+   },
+   {
+      "name":"glyphicon-th-large",
+      "code":"\\e010"
+   },
+   {
+      "name":"glyphicon-th",
+      "code":"\\e011"
+   },
+   {
+      "name":"glyphicon-th-list",
+      "code":"\\e012"
+   },
+   {
+      "name":"glyphicon-ok",
+      "code":"\\e013"
+   },
+   {
+      "name":"glyphicon-remove",
+      "code":"\\e014"
+   },
+   {
+      "name":"glyphicon-zoom-in",
+      "code":"\\e015"
+   },
+   {
+      "name":"glyphicon-zoom-out",
+      "code":"\\e016"
+   },
+   {
+      "name":"glyphicon-off",
+      "code":"\\e017"
+   },
+   {
+      "name":"glyphicon-signal",
+      "code":"\\e018"
+   },
+   {
+      "name":"glyphicon-cog",
+      "code":"\\e019"
+   },
+   {
+      "name":"glyphicon-trash",
+      "code":"\\e020"
+   },
+   {
+      "name":"glyphicon-home",
+      "code":"\\e021"
+   },
+   {
+      "name":"glyphicon-file",
+      "code":"\\e022"
+   },
+   {
+      "name":"glyphicon-time",
+      "code":"\\e023"
+   },
+   {
+      "name":"glyphicon-road",
+      "code":"\\e024"
+   },
+   {
+      "name":"glyphicon-download-alt",
+      "code":"\\e025"
+   },
+   {
+      "name":"glyphicon-download",
+      "code":"\\e026"
+   },
+   {
+      "name":"glyphicon-upload",
+      "code":"\\e027"
+   },
+   {
+      "name":"glyphicon-inbox",
+      "code":"\\e028"
+   },
+   {
+      "name":"glyphicon-play-circle",
+      "code":"\\e029"
+   },
+   {
+      "name":"glyphicon-repeat",
+      "code":"\\e030"
+   },
+   {
+      "name":"glyphicon-refresh",
+      "code":"\\e031"
+   },
+   {
+      "name":"glyphicon-list-alt",
+      "code":"\\e032"
+   },
+   {
+      "name":"glyphicon-lock",
+      "code":"\\e033"
+   },
+   {
+      "name":"glyphicon-flag",
+      "code":"\\e034"
+   },
+   {
+      "name":"glyphicon-headphones",
+      "code":"\\e035"
+   },
+   {
+      "name":"glyphicon-volume-off",
+      "code":"\\e036"
+   },
+   {
+      "name":"glyphicon-volume-down",
+      "code":"\\e037"
+   },
+   {
+      "name":"glyphicon-volume-up",
+      "code":"\\e038"
+   },
+   {
+      "name":"glyphicon-qrcode",
+      "code":"\\e039"
+   },
+   {
+      "name":"glyphicon-barcode",
+      "code":"\\e040"
+   },
+   {
+      "name":"glyphicon-tag",
+      "code":"\\e041"
+   },
+   {
+      "name":"glyphicon-tags",
+      "code":"\\e042"
+   },
+   {
+      "name":"glyphicon-book",
+      "code":"\\e043"
+   },
+   {
+      "name":"glyphicon-bookmark",
+      "code":"\\e044"
+   },
+   {
+      "name":"glyphicon-print",
+      "code":"\\e045"
+   },
+   {
+      "name":"glyphicon-camera",
+      "code":"\\e046"
+   },
+   {
+      "name":"glyphicon-font",
+      "code":"\\e047"
+   },
+   {
+      "name":"glyphicon-bold",
+      "code":"\\e048"
+   },
+   {
+      "name":"glyphicon-italic",
+      "code":"\\e049"
+   },
+   {
+      "name":"glyphicon-text-height",
+      "code":"\\e050"
+   },
+   {
+      "name":"glyphicon-text-width",
+      "code":"\\e051"
+   },
+   {
+      "name":"glyphicon-align-left",
+      "code":"\\e052"
+   },
+   {
+      "name":"glyphicon-align-center",
+      "code":"\\e053"
+   },
+   {
+      "name":"glyphicon-align-right",
+      "code":"\\e054"
+   },
+   {
+      "name":"glyphicon-align-justify",
+      "code":"\\e055"
+   },
+   {
+      "name":"glyphicon-list",
+      "code":"\\e056"
+   },
+   {
+      "name":"glyphicon-indent-left",
+      "code":"\\e057"
+   },
+   {
+      "name":"glyphicon-indent-right",
+      "code":"\\e058"
+   },
+   {
+      "name":"glyphicon-facetime-video",
+      "code":"\\e059"
+   },
+   {
+      "name":"glyphicon-picture",
+      "code":"\\e060"
+   },
+   {
+      "name":"glyphicon-map-marker",
+      "code":"\\e062"
+   },
+   {
+      "name":"glyphicon-adjust",
+      "code":"\\e063"
+   },
+   {
+      "name":"glyphicon-tint",
+      "code":"\\e064"
+   },
+   {
+      "name":"glyphicon-edit",
+      "code":"\\e065"
+   },
+   {
+      "name":"glyphicon-share",
+      "code":"\\e066"
+   },
+   {
+      "name":"glyphicon-check",
+      "code":"\\e067"
+   },
+   {
+      "name":"glyphicon-move",
+      "code":"\\e068"
+   },
+   {
+      "name":"glyphicon-step-backward",
+      "code":"\\e069"
+   },
+   {
+      "name":"glyphicon-fast-backward",
+      "code":"\\e070"
+   },
+   {
+      "name":"glyphicon-backward",
+      "code":"\\e071"
+   },
+   {
+      "name":"glyphicon-play",
+      "code":"\\e072"
+   },
+   {
+      "name":"glyphicon-pause",
+      "code":"\\e073"
+   },
+   {
+      "name":"glyphicon-stop",
+      "code":"\\e074"
+   },
+   {
+      "name":"glyphicon-forward",
+      "code":"\\e075"
+   },
+   {
+      "name":"glyphicon-fast-forward",
+      "code":"\\e076"
+   },
+   {
+      "name":"glyphicon-step-forward",
+      "code":"\\e077"
+   },
+   {
+      "name":"glyphicon-eject",
+      "code":"\\e078"
+   },
+   {
+      "name":"glyphicon-chevron-left",
+      "code":"\\e079"
+   },
+   {
+      "name":"glyphicon-chevron-right",
+      "code":"\\e080"
+   },
+   {
+      "name":"glyphicon-plus-sign",
+      "code":"\\e081"
+   },
+   {
+      "name":"glyphicon-minus-sign",
+      "code":"\\e082"
+   },
+   {
+      "name":"glyphicon-remove-sign",
+      "code":"\\e083"
+   },
+   {
+      "name":"glyphicon-ok-sign",
+      "code":"\\e084"
+   },
+   {
+      "name":"glyphicon-question-sign",
+      "code":"\\e085"
+   },
+   {
+      "name":"glyphicon-info-sign",
+      "code":"\\e086"
+   },
+   {
+      "name":"glyphicon-screenshot",
+      "code":"\\e087"
+   },
+   {
+      "name":"glyphicon-remove-circle",
+      "code":"\\e088"
+   },
+   {
+      "name":"glyphicon-ok-circle",
+      "code":"\\e089"
+   },
+   {
+      "name":"glyphicon-ban-circle",
+      "code":"\\e090"
+   },
+   {
+      "name":"glyphicon-arrow-left",
+      "code":"\\e091"
+   },
+   {
+      "name":"glyphicon-arrow-right",
+      "code":"\\e092"
+   },
+   {
+      "name":"glyphicon-arrow-up",
+      "code":"\\e093"
+   },
+   {
+      "name":"glyphicon-arrow-down",
+      "code":"\\e094"
+   },
+   {
+      "name":"glyphicon-share-alt",
+      "code":"\\e095"
+   },
+   {
+      "name":"glyphicon-resize-full",
+      "code":"\\e096"
+   },
+   {
+      "name":"glyphicon-resize-small",
+      "code":"\\e097"
+   },
+   {
+      "name":"glyphicon-exclamation-sign",
+      "code":"\\e101"
+   },
+   {
+      "name":"glyphicon-gift",
+      "code":"\\e102"
+   },
+   {
+      "name":"glyphicon-leaf",
+      "code":"\\e103"
+   },
+   {
+      "name":"glyphicon-fire",
+      "code":"\\e104"
+   },
+   {
+      "name":"glyphicon-eye-open",
+      "code":"\\e105"
+   },
+   {
+      "name":"glyphicon-eye-close",
+      "code":"\\e106"
+   },
+   {
+      "name":"glyphicon-warning-sign",
+      "code":"\\e107"
+   },
+   {
+      "name":"glyphicon-plane",
+      "code":"\\e108"
+   },
+   {
+      "name":"glyphicon-calendar",
+      "code":"\\e109"
+   },
+   {
+      "name":"glyphicon-random",
+      "code":"\\e110"
+   },
+   {
+      "name":"glyphicon-comment",
+      "code":"\\e111"
+   },
+   {
+      "name":"glyphicon-magnet",
+      "code":"\\e112"
+   },
+   {
+      "name":"glyphicon-chevron-up",
+      "code":"\\e113"
+   },
+   {
+      "name":"glyphicon-chevron-down",
+      "code":"\\e114"
+   },
+   {
+      "name":"glyphicon-retweet",
+      "code":"\\e115"
+   },
+   {
+      "name":"glyphicon-shopping-cart",
+      "code":"\\e116"
+   },
+   {
+      "name":"glyphicon-folder-close",
+      "code":"\\e117"
+   },
+   {
+      "name":"glyphicon-folder-open",
+      "code":"\\e118"
+   },
+   {
+      "name":"glyphicon-resize-vertical",
+      "code":"\\e119"
+   },
+   {
+      "name":"glyphicon-resize-horizontal",
+      "code":"\\e120"
+   },
+   {
+      "name":"glyphicon-hdd",
+      "code":"\\e121"
+   },
+   {
+      "name":"glyphicon-bullhorn",
+      "code":"\\e122"
+   },
+   {
+      "name":"glyphicon-bell",
+      "code":"\\e123"
+   },
+   {
+      "name":"glyphicon-certificate",
+      "code":"\\e124"
+   },
+   {
+      "name":"glyphicon-thumbs-up",
+      "code":"\\e125"
+   },
+   {
+      "name":"glyphicon-thumbs-down",
+      "code":"\\e126"
+   },
+   {
+      "name":"glyphicon-hand-right",
+      "code":"\\e127"
+   },
+   {
+      "name":"glyphicon-hand-left",
+      "code":"\\e128"
+   },
+   {
+      "name":"glyphicon-hand-up",
+      "code":"\\e129"
+   },
+   {
+      "name":"glyphicon-hand-down",
+      "code":"\\e130"
+   },
+   {
+      "name":"glyphicon-circle-arrow-right",
+      "code":"\\e131"
+   },
+   {
+      "name":"glyphicon-circle-arrow-left",
+      "code":"\\e132"
+   },
+   {
+      "name":"glyphicon-circle-arrow-up",
+      "code":"\\e133"
+   },
+   {
+      "name":"glyphicon-circle-arrow-down",
+      "code":"\\e134"
+   },
+   {
+      "name":"glyphicon-globe",
+      "code":"\\e135"
+   },
+   {
+      "name":"glyphicon-wrench",
+      "code":"\\e136"
+   },
+   {
+      "name":"glyphicon-tasks",
+      "code":"\\e137"
+   },
+   {
+      "name":"glyphicon-filter",
+      "code":"\\e138"
+   },
+   {
+      "name":"glyphicon-briefcase",
+      "code":"\\e139"
+   },
+   {
+      "name":"glyphicon-fullscreen",
+      "code":"\\e140"
+   },
+   {
+      "name":"glyphicon-dashboard",
+      "code":"\\e141"
+   },
+   {
+      "name":"glyphicon-paperclip",
+      "code":"\\e142"
+   },
+   {
+      "name":"glyphicon-heart-empty",
+      "code":"\\e143"
+   },
+   {
+      "name":"glyphicon-link",
+      "code":"\\e144"
+   },
+   {
+      "name":"glyphicon-phone",
+      "code":"\\e145"
+   },
+   {
+      "name":"glyphicon-pushpin",
+      "code":"\\e146"
+   },
+   {
+      "name":"glyphicon-usd",
+      "code":"\\e148"
+   },
+   {
+      "name":"glyphicon-gbp",
+      "code":"\\e149"
+   },
+   {
+      "name":"glyphicon-sort",
+      "code":"\\e150"
+   },
+   {
+      "name":"glyphicon-sort-by-alphabet",
+      "code":"\\e151"
+   },
+   {
+      "name":"glyphicon-sort-by-alphabet-alt",
+      "code":"\\e152"
+   },
+   {
+      "name":"glyphicon-sort-by-order",
+      "code":"\\e153"
+   },
+   {
+      "name":"glyphicon-sort-by-order-alt",
+      "code":"\\e154"
+   },
+   {
+      "name":"glyphicon-sort-by-attributes",
+      "code":"\\e155"
+   },
+   {
+      "name":"glyphicon-sort-by-attributes-alt",
+      "code":"\\e156"
+   },
+   {
+      "name":"glyphicon-unchecked",
+      "code":"\\e157"
+   },
+   {
+      "name":"glyphicon-expand",
+      "code":"\\e158"
+   },
+   {
+      "name":"glyphicon-collapse-down",
+      "code":"\\e159"
+   },
+   {
+      "name":"glyphicon-collapse-up",
+      "code":"\\e160"
+   },
+   {
+      "name":"glyphicon-log-in",
+      "code":"\\e161"
+   },
+   {
+      "name":"glyphicon-flash",
+      "code":"\\e162"
+   },
+   {
+      "name":"glyphicon-log-out",
+      "code":"\\e163"
+   },
+   {
+      "name":"glyphicon-new-window",
+      "code":"\\e164"
+   },
+   {
+      "name":"glyphicon-record",
+      "code":"\\e165"
+   },
+   {
+      "name":"glyphicon-save",
+      "code":"\\e166"
+   },
+   {
+      "name":"glyphicon-open",
+      "code":"\\e167"
+   },
+   {
+      "name":"glyphicon-saved",
+      "code":"\\e168"
+   },
+   {
+      "name":"glyphicon-import",
+      "code":"\\e169"
+   },
+   {
+      "name":"glyphicon-export",
+      "code":"\\e170"
+   },
+   {
+      "name":"glyphicon-send",
+      "code":"\\e171"
+   },
+   {
+      "name":"glyphicon-floppy-disk",
+      "code":"\\e172"
+   },
+   {
+      "name":"glyphicon-floppy-saved",
+      "code":"\\e173"
+   },
+   {
+      "name":"glyphicon-floppy-remove",
+      "code":"\\e174"
+   },
+   {
+      "name":"glyphicon-floppy-save",
+      "code":"\\e175"
+   },
+   {
+      "name":"glyphicon-floppy-open",
+      "code":"\\e176"
+   },
+   {
+      "name":"glyphicon-credit-card",
+      "code":"\\e177"
+   },
+   {
+      "name":"glyphicon-transfer",
+      "code":"\\e178"
+   },
+   {
+      "name":"glyphicon-cutlery",
+      "code":"\\e179"
+   },
+   {
+      "name":"glyphicon-header",
+      "code":"\\e180"
+   },
+   {
+      "name":"glyphicon-compressed",
+      "code":"\\e181"
+   },
+   {
+      "name":"glyphicon-earphone",
+      "code":"\\e182"
+   },
+   {
+      "name":"glyphicon-phone-alt",
+      "code":"\\e183"
+   },
+   {
+      "name":"glyphicon-tower",
+      "code":"\\e184"
+   },
+   {
+      "name":"glyphicon-stats",
+      "code":"\\e185"
+   },
+   {
+      "name":"glyphicon-sd-video",
+      "code":"\\e186"
+   },
+   {
+      "name":"glyphicon-hd-video",
+      "code":"\\e187"
+   },
+   {
+      "name":"glyphicon-subtitles",
+      "code":"\\e188"
+   },
+   {
+      "name":"glyphicon-sound-stereo",
+      "code":"\\e189"
+   },
+   {
+      "name":"glyphicon-sound-dolby",
+      "code":"\\e190"
+   },
+   {
+      "name":"glyphicon-sound-5-1",
+      "code":"\\e191"
+   },
+   {
+      "name":"glyphicon-sound-6-1",
+      "code":"\\e192"
+   },
+   {
+      "name":"glyphicon-sound-7-1",
+      "code":"\\e193"
+   },
+   {
+      "name":"glyphicon-copyright-mark",
+      "code":"\\e194"
+   },
+   {
+      "name":"glyphicon-registration-mark",
+      "code":"\\e195"
+   },
+   {
+      "name":"glyphicon-cloud-download",
+      "code":"\\e197"
+   },
+   {
+      "name":"glyphicon-cloud-upload",
+      "code":"\\e198"
+   },
+   {
+      "name":"glyphicon-tree-conifer",
+      "code":"\\e199"
+   },
+   {
+      "name":"glyphicon-tree-deciduous",
+      "code":"\\e200"
+   },
+   {
+      "name":"glyphicon-cd",
+      "code":"\\e201"
+   },
+   {
+      "name":"glyphicon-save-file",
+      "code":"\\e202"
+   },
+   {
+      "name":"glyphicon-open-file",
+      "code":"\\e203"
+   },
+   {
+      "name":"glyphicon-level-up",
+      "code":"\\e204"
+   },
+   {
+      "name":"glyphicon-copy",
+      "code":"\\e205"
+   },
+   {
+      "name":"glyphicon-paste",
+      "code":"\\e206"
+   },
+   {
+      "name":"glyphicon-alert",
+      "code":"\\e209"
+   },
+   {
+      "name":"glyphicon-equalizer",
+      "code":"\\e210"
+   },
+   {
+      "name":"glyphicon-king",
+      "code":"\\e211"
+   },
+   {
+      "name":"glyphicon-queen",
+      "code":"\\e212"
+   },
+   {
+      "name":"glyphicon-pawn",
+      "code":"\\e213"
+   },
+   {
+      "name":"glyphicon-bishop",
+      "code":"\\e214"
+   },
+   {
+      "name":"glyphicon-knight",
+      "code":"\\e215"
+   },
+   {
+      "name":"glyphicon-baby-formula",
+      "code":"\\e216"
+   },
+   {
+      "name":"glyphicon-tent",
+      "code":"\\26fa"
+   },
+   {
+      "name":"glyphicon-blackboard",
+      "code":"\\e218"
+   },
+   {
+      "name":"glyphicon-bed",
+      "code":"\\e219"
+   },
+   {
+      "name":"glyphicon-apple",
+      "code":"\\f8ff"
+   },
+   {
+      "name":"glyphicon-erase",
+      "code":"\\e221"
+   },
+   {
+      "name":"glyphicon-hourglass",
+      "code":"\\231b"
+   },
+   {
+      "name":"glyphicon-lamp",
+      "code":"\\e223"
+   },
+   {
+      "name":"glyphicon-duplicate",
+      "code":"\\e224"
+   },
+   {
+      "name":"glyphicon-piggy-bank",
+      "code":"\\e225"
+   },
+   {
+      "name":"glyphicon-scissors",
+      "code":"\\e226"
+   },
+   {
+      "name":"glyphicon-bitcoin",
+      "code":"\\e227"
+   },
+   {
+      "name":"glyphicon-yen",
+      "code":"\\00a5"
+   },
+   {
+      "name":"glyphicon-ruble",
+      "code":"\\20bd"
+   },
+   {
+      "name":"glyphicon-scale",
+      "code":"\\e230"
+   },
+   {
+      "name":"glyphicon-ice-lolly",
+      "code":"\\e231"
+   },
+   {
+      "name":"glyphicon-ice-lolly-tasted",
+      "code":"\\e232"
+   },
+   {
+      "name":"glyphicon-education",
+      "code":"\\e233"
+   },
+   {
+      "name":"glyphicon-option-horizontal",
+      "code":"\\e234"
+   },
+   {
+      "name":"glyphicon-option-vertical",
+      "code":"\\e235"
+   },
+   {
+      "name":"glyphicon-menu-hamburger",
+      "code":"\\e236"
+   },
+   {
+      "name":"glyphicon-modal-window",
+      "code":"\\e237"
+   },
+   {
+      "name":"glyphicon-oil",
+      "code":"\\e238"
+   },
+   {
+      "name":"glyphicon-grain",
+      "code":"\\e239"
+   },
+   {
+      "name":"glyphicon-sunglasses",
+      "code":"\\e240"
+   },
+   {
+      "name":"glyphicon-text-size",
+      "code":"\\e241"
+   },
+   {
+      "name":"glyphicon-text-color",
+      "code":"\\e242"
+   },
+   {
+      "name":"glyphicon-text-background",
+      "code":"\\e243"
+   },
+   {
+      "name":"glyphicon-object-align-top",
+      "code":"\\e244"
+   },
+   {
+      "name":"glyphicon-object-align-bottom",
+      "code":"\\e245"
+   },
+   {
+      "name":"glyphicon-object-align-horizontal",
+      "code":"\\e246"
+   },
+   {
+      "name":"glyphicon-object-align-left",
+      "code":"\\e247"
+   },
+   {
+      "name":"glyphicon-object-align-vertical",
+      "code":"\\e248"
+   },
+   {
+      "name":"glyphicon-object-align-right",
+      "code":"\\e249"
+   },
+   {
+      "name":"glyphicon-triangle-right",
+      "code":"\\e250"
+   },
+   {
+      "name":"glyphicon-triangle-left",
+      "code":"\\e251"
+   },
+   {
+      "name":"glyphicon-triangle-bottom",
+      "code":"\\e252"
+   },
+   {
+      "name":"glyphicon-triangle-top",
+      "code":"\\e253"
+   },
+   {
+      "name":"glyphicon-console",
+      "code":"\\e254"
+   },
+   {
+      "name":"glyphicon-superscript",
+      "code":"\\e255"
+   },
+   {
+      "name":"glyphicon-subscript",
+      "code":"\\e256"
+   },
+   {
+      "name":"glyphicon-menu-left",
+      "code":"\\e257"
+   },
+   {
+      "name":"glyphicon-menu-right",
+      "code":"\\e258"
+   },
+   {
+      "name":"glyphicon-menu-down",
+      "code":"\\e259"
+   },
+   {
+      "name":"glyphicon-menu-up",
+      "code":"\\e260"
+   }
 ]
